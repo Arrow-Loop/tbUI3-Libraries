@@ -1,0 +1,12 @@
+library=tbUI3-Icons
+format=1
+version=2026.10.19.1
+file=tbUI3-Icons-2026.10.19.1.zip
+url=https://github.com/Arrow-Loop/tbUI3-Libraries/releases/download/icons-2026.10.19.1/tbUI3-Icons-2026.10.19.1.zip
+size=7145967
+sha256=c2f564a0385bc0685933f4651e595b6f7716131f0bd706fd1bbfe2d52228bbfa
+datSize=31199591
+datSha256=3dd37185998b548ba4bc0ffb604f4c4407abfd6f8a9810b109da485bd9a518d0
+entries=21876
+fluentCommit=cd332ec1f90cda2fad16f86754f8da52f1e9ab30
+galleryCommit=05939cc7d48fc0d7288ff3c89ced86cf1a08eb9d
